@@ -26,7 +26,7 @@ setup(
         'markupsafe==0.19',
         'jinja2==2.7.2',
         'itsdangerous==0.22',
-        'flask==0.10.1',
+        'flask==1.0',
         'pymongo==2.6.3',
         'flask-pymongo==0.3.0',
     ],
